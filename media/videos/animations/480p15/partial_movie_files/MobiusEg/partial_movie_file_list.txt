@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/USUARIO/Documents/WTF IS PROGRAMMING 2.0/UR CLASES/variable_compleja/media/videos/animations/480p15/partial_movie_files/MobiusEg/3670105132_4172879791_223132457.mp4'
+file 'file:C:/Users/USUARIO/Documents/WTF IS PROGRAMMING 2.0/UR CLASES/variable_compleja/media/videos/animations/480p15/partial_movie_files/MobiusEg/1564746663_2386339690_4162206271.mp4'
+file 'file:C:/Users/USUARIO/Documents/WTF IS PROGRAMMING 2.0/UR CLASES/variable_compleja/media/videos/animations/480p15/partial_movie_files/MobiusEg/1564746663_1621656936_640943985.mp4'
+file 'file:C:/Users/USUARIO/Documents/WTF IS PROGRAMMING 2.0/UR CLASES/variable_compleja/media/videos/animations/480p15/partial_movie_files/MobiusEg/1564746663_2937167469_2009601234.mp4'
+file 'file:C:/Users/USUARIO/Documents/WTF IS PROGRAMMING 2.0/UR CLASES/variable_compleja/media/videos/animations/480p15/partial_movie_files/MobiusEg/1564746663_684440134_922282365.mp4'
+file 'file:C:/Users/USUARIO/Documents/WTF IS PROGRAMMING 2.0/UR CLASES/variable_compleja/media/videos/animations/480p15/partial_movie_files/MobiusEg/1564746663_716826649_1934893349.mp4'
+file 'file:C:/Users/USUARIO/Documents/WTF IS PROGRAMMING 2.0/UR CLASES/variable_compleja/media/videos/animations/480p15/partial_movie_files/MobiusEg/1564746663_1831374817_8157531.mp4'
