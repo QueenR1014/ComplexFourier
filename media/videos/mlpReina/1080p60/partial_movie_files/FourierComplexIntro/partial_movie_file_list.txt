@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/danie/Desktop/ComplexFourier/media/videos/mlpReina/1080p60/partial_movie_files/FourierComplexIntro/3977891868_715537695_223132457.mp4'
+file 'file:C:/Users/danie/Desktop/ComplexFourier/media/videos/mlpReina/1080p60/partial_movie_files/FourierComplexIntro/2852726489_2340881446_488453759.mp4'
+file 'file:C:/Users/danie/Desktop/ComplexFourier/media/videos/mlpReina/1080p60/partial_movie_files/FourierComplexIntro/2852726489_3890345977_653340898.mp4'
+file 'file:C:/Users/danie/Desktop/ComplexFourier/media/videos/mlpReina/1080p60/partial_movie_files/FourierComplexIntro/2852726489_1885656138_1732588547.mp4'
+file 'file:C:/Users/danie/Desktop/ComplexFourier/media/videos/mlpReina/1080p60/partial_movie_files/FourierComplexIntro/2852726489_1704852926_4066130174.mp4'
