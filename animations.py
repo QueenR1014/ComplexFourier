@@ -190,8 +190,8 @@ class EgFunction(MovingCameraScene):
             self.play(Write(tex4))
             self.play(Write(tex6))
         #-------------------- EJECUCIÓN ---------------------
-        self.add(domain) #en cambio de create_plane()
-        #create_plane()
+        #self.add(domain) #en cambio de create_plane()
+        create_plane()
         explanation()
         slider_animation()
         slider = VGroup(slider, label_left, label_right)
